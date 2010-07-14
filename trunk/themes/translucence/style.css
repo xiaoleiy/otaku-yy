@@ -97,7 +97,7 @@ Tags:dark,black,two-columns,right-sidebar,fixed-width,theme-options,sticky-post,
 #comment_area,#comment{width:90%;}
 h4#comments {clear: both;margin: 45px 0 5px 0;font-size:20px;}
 .commentlist li {font-size: inherit;}
-.commentlist li .avatar { float: left;padding:0px;margin-right:12px;}
+.commentlist li .avatar { float: left;padding:0px;margin-right:12px;-moz-box-shadow:2px 2px 6px rgba(0,0,0,.5);-webkit-box-shadow:2px 2px 6px rgba(0,0,0,.5);box-shadow:2px 2px 6px rgba(0,0,0,.5);}
 .commentlist cite {font-weight: bold;font-style: normal;font-size: 14px;}
 .commentlist p {font-size:12px;font-weight: normal;margin: 10px 5px 10px 0;padding-top:10px;text-transform: none;}
 .commentmetadata {display: block;font-size: 12px;font-weight: normal;margin: 0;}
